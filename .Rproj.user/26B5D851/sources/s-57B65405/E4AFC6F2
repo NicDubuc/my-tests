@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601053671633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1363190803",
+    "id" : "E4AFC6F2",
+    "lastKnownWriteTime" : 1601053686,
+    "last_content_update" : 1601053686738,
+    "path" : "~/my-tests/Test_pgm/main.R",
+    "project_path" : "Test_pgm/main.R",
+    "properties" : {
+        "cursorPosition" : "1,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
